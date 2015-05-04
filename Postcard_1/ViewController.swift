@@ -28,7 +28,7 @@ class ViewController: UIViewController {
 
     
     @IBAction func sendMailButtonPressed(sender: UIButton) {
-        // Adding comment for testing
+        // Removed comment
         
 //        if (messageLabel.hidden==false)
 //        {
